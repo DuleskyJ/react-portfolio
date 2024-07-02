@@ -51,6 +51,11 @@ function Contact() {
         </div>
         <button type="submit">Submit</button>
       </form>
+      <div>
+        <h3>Or contact me directly at:</h3>
+        <p>Email: jdkyaz@gmail.com</p>  
+        <p>Phone: (928) 581-7392</p>  
+      </div>
     </section>
   );
 }
