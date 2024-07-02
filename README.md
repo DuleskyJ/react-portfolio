@@ -37,6 +37,9 @@ The application is deployed on Netlify. You can view the live application here.
 This project is licensed under the MIT License.
 
 ## Contact
-Email: jdkyaz@gmail.com
-GitHub: https://github.com/DuleskyJ
-LinkedIn: https://www.linkedin.com/in/jaden-dulesky-b52a3a316/ 
+- Email: jdkyaz@gmail.com
+- GitHub: https://github.com/DuleskyJ
+- LinkedIn: https://www.linkedin.com/in/jaden-dulesky-b52a3a316/ 
+
+## Deployed Application
+https://reactportfoliojadend.netlify.app/
