@@ -31,9 +31,9 @@ function Contact() {
   };
 
   return (
-    <section>
+    <section className="contact">
       <h2>Contact</h2>
-      <form onSubmit={handleSubmit}>
+      <form className="contact-form" onSubmit={handleSubmit}>
         <div>
           <label htmlFor="name">Name:</label>
           <input type="text" id="name" name="name" value={formState.name} onChange={handleChange} />
