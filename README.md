@@ -43,3 +43,6 @@ This project is licensed under the MIT License.
 
 ## Deployed Application
 https://reactportfoliojadend.netlify.app/
+
+## Screenshot
+![Screenshot (52)](https://github.com/DuleskyJ/react-portfolio/assets/153566037/c9cb2d93-9769-4608-9273-4362abd119b5)
